@@ -85,3 +85,9 @@ Here are some of the technologies and tools I work with:
 
 
 ---
+
+## 🙏 Acknowledgments
+
+I'd like to thank my instructor and mentor, Lisa Savoie [@twosavoie](https://github.com/twosavoie), for her invaluable guidance and support in creating this GitHub profile and throughout my learning journey.
+
+---
