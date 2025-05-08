@@ -77,12 +77,20 @@ Here are some of the technologies and tools I work with:
 </p>
 
 ---
+
 ## 📫 Connect with Me
 
-* **Portfolio:** [https://catyoung018.github.io/Cat-Young-Dev/](https://catyoung018.github.io/Cat-Young-Dev/)
-* **GitHub:** [https://github.com/catyoung018](https://github.com/catyoung018)
-* **LinkedIn:** [https://www.linkedin.com/in/catrillia-young18/](https://www.linkedin.com/in/catrillia-young18/) 
-
+<p align="center">
+  <a href="https://catyoung018.github.io/Cat-Young-Dev/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge" alt="Portfolio Badge"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/catyoung018">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/catrillia-young18/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  </p>
 
 ---
 
