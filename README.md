@@ -66,10 +66,6 @@ Here are some of the technologies and tools I work with:
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CatYoung018&show_icons=true&theme=default&hide_border=true" alt="Cat's GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatYoung018&layout=donut-vertical&theme=default&hide_border=true" alt="Top Languages" />
 </p>
 
