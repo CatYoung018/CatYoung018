@@ -96,12 +96,6 @@ Check out my pinned repositories below for examples of my work, including:
 
 ---
 
-## 🙏 Acknowledgments
-
-I'd like to thank my instructor and mentor, [Lisa Savoie](https://github.com/twosavoie), for her invaluable guidance and support in creating this GitHub profile and throughout my learning journey.
-
----
-
 <div align="center">
 
 *"Curiosity meets code! 🔥 Actively building websites and excited to explore & grow on this journey of development. 🗺️"*
